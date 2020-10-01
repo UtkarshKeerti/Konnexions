@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 5px;
+}
+h1{
+  font-family: fantasy;
+  display: flex;
+  justify-content: center;
+}
+
+html{
+    background-color: cornsilk;
+}
+
+.container-fluid{
+    background-color: cornsilk;
+    align-content: center;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+#form1{
+    font-size: 1.3em;
+
+}
+#form2{
+    font-size: 1.3em;
+    
+}
+
+#form4{
+    font-size: 1.3em;
+    
+}
+
+.c{
+    font-size: 1.3em;
+}
+.s{
+    margin: 5px;
+    display: flex;
+
+}
+
+.r{
+    margin: 5px;
+    display: flex;
+   
+}
